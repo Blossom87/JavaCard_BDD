@@ -1,0 +1,41 @@
+[
+    {
+        "firstName": "Ted",
+        "lastName": "ted",
+        "surName": "Ted",
+        "gender": "Man",
+        "birthDate": "2000-05-05",
+        "address": "Ted",
+        "zipcode": "11111",
+        "personalPhone": "0606060606",
+        "professionalPhone": "",
+        "mail": "ted@ted.ted",
+        "gitLink": ""
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Bob",
+        "surName": "Bob",
+        "gender": "Man",
+        "birthDate": "2000-05-05",
+        "address": "Bob",
+        "zipcode": "11111",
+        "personalPhone": "0606060606",
+        "professionalPhone": "",
+        "mail": "Bob@bob.bob",
+        "gitLink": ""
+    },
+    {
+        "firstName": "Patrick",
+        "lastName": "Patrick",
+        "surName": "Patrick",
+        "gender": "Man",
+        "birthDate": "2000-05-05",
+        "address": "Patrick",
+        "zipcode": "00000",
+        "personalPhone": "0606060606",
+        "professionalPhone": "",
+        "mail": "Patrick@Patrick.com",
+        "gitLink": ""
+    }
+]

@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:4.0N:ted;Ted;Man
+FN:Ted ted
+ADR:Ted;11111
+EMAIL:ted@ted.ted
+TEL:0606060606;
+ORG:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0N:Bab;Bob;Man
+FN:Bob Bab
+ADR:Bob;11111
+EMAIL:Bob@bob.bob
+TEL:0606060606;
+ORG:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0N:Patrick;Patrick;Man
+FN:Patrick Patrick
+ADR:Patrick;00000
+EMAIL:Patrick@Patrick.com
+TEL:0606060606;
+ORG:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0N:Beune;Yoann;Man
+FN:Yoann Beune
+ADR:Alle Bidon;87000
+EMAIL:unmail@gmail.com
+TEL:0606060606;
+ORG:
+END:VCARD
+

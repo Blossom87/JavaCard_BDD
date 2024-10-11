@@ -1,0 +1,39 @@
+.backgroundColor{
+    -fx-background-color: linear-gradient(#8ffd9e, #ffffff)
+}
+
+.textField {
+    -fx-background-color: #8ffd9e, #ffffff;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-text-fill: #bbffbb;
+    -fx-display-caret: false;
+}
+
+.newContact {
+    -fx-shape: "M 150 450 Q 100 350 150 250 Q 400 250 650 250 Q 700 350 650 450 Q 350 450 150 450 ";
+    -fx-background-color: #ffffff;
+    -fx-border-width: 3px;
+    -fx-border-color: #ffffff
+}
+
+.newContact2 {
+    -fx-shape: "M 150 450 Q 100 350 150 250 Q 400 250 650 250 Q 700 350 650 450 Q 350 450 150 450 ";
+    -fx-background-color: #ffffff;
+    -fx-border-width: 3px;
+    -fx-border-color: #8ffd9e;
+}
+
+.border {
+    -fx-border-width:3px;
+    -fx-border-color:#7e7e7e;
+    -fx-border-radius: 25px;
+}
+
+.text-field.error {
+    -fx-text-box-border: red ;
+    -fx-focus-color: red ;
+  }
+
+  .backgroundColorText {
+    -fx-background-color: #ffffff
+  }
